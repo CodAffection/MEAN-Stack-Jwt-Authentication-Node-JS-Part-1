@@ -17,7 +17,7 @@ alt="Video Tutorial for MEAN Stack JWT Authentication in Node JS" width="500" he
 1. CRUD Operation - Insert Update View and Delete ➤ https://goo.gl/LbQ4BM
 2. User Registration <br/>
     Node JS Back End ➤ https://goo.gl/CMnPwe  <br/>
-    Angualr 6 Front End ➤ https://goo.gl/xivk4x
+    Angualr 6 Front End ➤ https://goo.gl/xivk4x <br/>
 3. JWT Authentication <br/>
     Node JS Back End  ➤ this one
 
