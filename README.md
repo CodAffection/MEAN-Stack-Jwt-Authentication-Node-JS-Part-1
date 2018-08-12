@@ -6,7 +6,7 @@ Install npm packages using 'npm install' command from angular6 and server folder
  
  # Step By Step Explanation
  
- Text Article : https://goo.gl/ed6dqL <br/>
+ Text Article : https://goo.gl/47gn5b <br/>
  Video Tutorial : https://youtu.be/T8qepiTbJi4
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=T8qepiTbJi4
