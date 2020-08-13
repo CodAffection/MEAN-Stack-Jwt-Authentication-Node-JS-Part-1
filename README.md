@@ -1,6 +1,12 @@
 # MEAN Stack JWT Authentication in NodeJS API
 MEAN Stack Project inside that we implemented JWT Node JS Authentication Using jsonwebtoken and passport.js.
 
+Contents discussed : 
+* Configure Passport.js for authentication
+* Node JS User Authentication
+* Jwt token expiry
+* Private route with jsonwebtoken
+
 ## Get the Code
 
 ```
@@ -26,9 +32,10 @@ alt="Video Tutorial for MEAN Stack JWT Authentication in Node JS" width="500" he
 1. CRUD Operation - Insert Update View and Delete : https://goo.gl/LbQ4BM
 2. User Registration <br/>
     Node JS Back End : https://goo.gl/CMnPwe  <br/>
-    Angualr 6 Front End : https://goo.gl/xivk4x <br/>
+    Angular 6 Front End : https://goo.gl/xivk4x <br/>
 3. JWT Authentication <br/>
-    Node JS Back End  : this one  
+    Node JS Back End  : http://bit.ly/31FKEF6 [_This One_]  
+    Angular Front End : http://bit.ly/2z6PmQ5
 
 
 | :bar_chart:               |  List of Tutorials   |   | :moneybag:           | Support Us                           |
